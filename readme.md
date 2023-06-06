@@ -9,6 +9,11 @@
     pip install -r requirements.txt
     ```
 
+3. ### Install chromium
+    ```
+    pyppeteer-install
+    ```
+
 2. ### Run the file
     ```
     python3 main.py
